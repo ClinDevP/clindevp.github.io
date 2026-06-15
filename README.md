@@ -30,9 +30,8 @@ portfolio/
 ## Running the project
 
 Open the `index.html` file in a browser.
-For a smoother development experience, use the *Live Server* extension in VS Code.
+For a smoother development experience, use the _Live Server_ extension in VS Code.
 
 ## Author
 
 Chenxi — chenxi.lin.pro@gmail.com
-
